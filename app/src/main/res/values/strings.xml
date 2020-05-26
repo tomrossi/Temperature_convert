@@ -21,5 +21,6 @@
     <string name="f">°F</string>
     <string name="button">Button</string>
     <string name="btnConverti">Converti</string>
+    <string name="btnChange">change</string>
 
 </resources>
