@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Temperature Convert</string>
+    <string name="Titolo">Convertitore di temperatura</string>
+    <string name="sottotitolo">Da °C a °F</string>
+    <string name="btn">Button</string>
+    <string name="tag1">celsius</string>
+    <string name="input">Inserisci temperatura</string>
+    <string name="celsiusTxt">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+
+    <string name="prova">TextView</string>
+
+    <string name="titolo">Convertitore di temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="da_c_a_f">Da °C a °F</string>
+    <string name="inserisci_temperatura">Inserisci temperatura</string>
+    <string name="textview">TextView</string>
+    <string name="c">°C</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="f">°F</string>
+    <string name="button">Button</string>
+    <string name="btnConverti">Converti</string>
+
+</resources>
